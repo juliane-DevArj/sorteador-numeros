@@ -12,5 +12,5 @@
 </div>
 
 # Colaboradores
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Juliane Araújo</sub>](https://github.com/juliane-DevArj) | 
+| [<img loading="lazy" src="https://github.com/juliane-DevArj/sorteador-numeros/issues/1#issue-2626993003" width=115><br><sub>Juliane Araújo</sub>](https://github.com/juliane-DevArj) | 
 | :---: | :---: |
